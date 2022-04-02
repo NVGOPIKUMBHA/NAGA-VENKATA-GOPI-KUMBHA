@@ -8,3 +8,5 @@
 NVGOPIKUMBHA/NVGOPIKUMBHA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+BY the above projects you can get an idea about me
+by using the python package you can open it.
